@@ -14,9 +14,6 @@ Title of figures [122 0 0 1] means, left to right order:
 Applied some augmentation(gaussian blur, zoom, translation, rotation..) to input(left image) for wild environment.  
 Center image is the answer so it has 99% confidence, on the other hand, right image is wrong so that has 0%.  
 
-## Model Architecture
-![model.jpg](https://github.com/kairess/fingerprint_recognition/raw/master/result/model.jpg)  
-
 ## Dependencies
 - Python
 - numpy
